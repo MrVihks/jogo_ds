@@ -203,12 +203,12 @@
         },
         "ursina": {
             "hashes": [
-                "sha256:7dcf298ef558b0c31f27ce793f53bdada82c124989613df2ecc65a05effff3a5",
-                "sha256:b76718e338fe7a6090946beed5de2daea23808b6e0c96945e2fb082025c036e6"
+                "sha256:838970dadcd4b40d77b4d5c80ab2c99fc869d2b455de75b733b0f1f74a8874d1",
+                "sha256:f80a8ee84c299b835075d37780fd4607bd20cf85f9dacc59376d9535b51bb7c3"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.10'",
-            "version": "==6.1.2"
+            "version": "==7.0.0"
         }
     },
     "develop": {}
