@@ -22,11 +22,7 @@ class Menu(Entity):
          
     def go_to_next(self):
         self.destroy_all = True
-        destroy(self.scool1)
-        destroy(self.scool2)
-        destroy(self.start)
-        destroy(self.exit)
-        destroy(self.text)
+        scene.clear()
         self.tutorial = TutorialTexts()
        
     def exit_game(self):

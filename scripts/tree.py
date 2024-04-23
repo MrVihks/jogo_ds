@@ -5,5 +5,6 @@ class Tree(Entity):
         super().__init__(
             model="../assets/models/tree.glb",
             scale=(0.15),
-            position=position
+            position=position,
+            collider="mesh"
         )

@@ -6,7 +6,7 @@ class Chest(Entity):
             model="../assets/models/chest.glb",
             scale=(0.4),
             position=Vec3(position,0,3),
-            collider="mesh"
+            collider="box"
         )
         self.chosed = chosed
         

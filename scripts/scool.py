@@ -6,6 +6,6 @@ class Scool(Entity):
             model="../assets/models/scool.glb",
             scale=scale,
             position=position,
-            collider="mesh"
+            collider="box"
         )
    
