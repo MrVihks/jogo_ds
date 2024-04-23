@@ -7,6 +7,7 @@ from scripts.player import Player
 from scripts.tree import Tree
 
 from random import randint
+
 class Tutorial(Entity):
     def __init__(self, dificult):
         super().__init__()
